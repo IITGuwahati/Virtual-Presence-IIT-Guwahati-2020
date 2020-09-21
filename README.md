@@ -20,6 +20,7 @@
 - For Password and other login details [click here](#Password) 
 
 [**Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020**](#pswd)
+[**Kindly only use your Laptop or PC to access the link, as some plugins are not supported completely in Mobiles or Tabs**]()
 
 - For Instructions on how to use the portal [click here](#Instructions)
 - For Issues and Technical Support [click here](#Issues)
@@ -100,10 +101,10 @@ We have decided **4 slots** dedicated for different branches and centers. Each d
 
 |[**Slots**]()   |[**Departments**]() | [**Time**]()  | [**Password**]()|
 |:-------|:-----------------------|:-------|:---------------|
-| [**SLOT 1**]() | CSE + Mech + CLST + Nanotech | **02:00 PM - 02:25 PM**  |ABCDEFG|
-| [**SLOT 2**]() | EEE + Humanities + Civil + Rural  | **02:30 PM - 02:55 PM**  |HIJKLMN|
-| [**SLOT 3**]() | BSBE + Maths + Design + Energy  | **03:00 PM - 03:25 PM**  |OPQRSTU|
-| [**SLOT 4**]() | Chemistry + Physics + Chemical + Environment| **03:30 PM - 04:00 PM**  |VWXYZ12|
+| [**SLOT 1**]() | CSE + Mech + CLST + Nanotech | **02:00 PM - 02:25 PM**  |[**Password to be updated before slot time**]()|
+| [**SLOT 2**]() | EEE + Humanities + Civil + Rural  | **02:30 PM - 02:55 PM**  |[**Password to be updated before slot time**]()|
+| [**SLOT 3**]() | BSBE + Maths + Design + Energy  | **03:00 PM - 03:25 PM**  |[**Password to be updated before slot time**]()|
+| [**SLOT 4**]() | Chemistry + Physics + Chemical + Environment| **03:30 PM - 04:00 PM**  |[**Password to be updated before slot time**]()|
 
 
 **Kindly enter in the dedicated time slot**. Each department has UG, PG, Research Scholars and Faculties. All of them will be entering together.

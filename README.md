@@ -93,7 +93,10 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 
 ### Scheduled slots:
 
+
 We have decided **4 slots** dedicated for different branches and centers. Each department will be having the graduating **UG students, PG students, Research Scholars and Faculties**.
+
+[**Only those who are graduating with an Institute WebMail ID and the Password for the room will be allowed to enter the space. We have set a guest list for allowed people.**]()
 
 |[**Slots**]()   |[**Departments**]() | [**Time**]()  | [**Password**]()|
 |:-------|:-----------------------|:-------|:---------------|

@@ -16,12 +16,11 @@
 
 ## Link to the Virtual Presence Space: [Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
 
-
-- For Password and other login details [click here](#Password) 
-
-[**Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020**](#pswd)
 [**Kindly only use your Laptop or PC to access the link, as some plugins are not supported completely in Mobiles or Tabs**]()
 
+[**Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020**](#pswd)
+
+- For Password and other login details [click here](#Password) 
 - For Instructions on how to use the portal [click here](#Instructions)
 - For Issues and Technical Support [click here](#Issues)
 

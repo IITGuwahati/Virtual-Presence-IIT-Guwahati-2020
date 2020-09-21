@@ -16,6 +16,7 @@
 
 ## Link to the Virtual Presence Space: [Click here](https://gather.town/app/i9hb5cgUXwQZkYvF/Convocation)
 
+
 [**Kindly only use your Laptop or PC to access the link, as some plugins are not supported completely in Mobiles or Tabs**]()
 
 [**Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020**](#pswd)
@@ -56,8 +57,8 @@ The map consists of:
 -	**Conference Hall** (Videos of different fests and events)
 -	**Admin Building**	(About the Institute)
 -	**Library** (About CET and Library)
--	**Medal Holders Speech** (Near the lake)
--	**11 Department and 5 Academic Centres** (Department videos and sites)
+-	**Medal Holders Speech** (Inside respective departments)
+-	**11 Departments and 5 Academic Centres** (Department videos and sites)
 2. Each block has a video of the department as well as a poster which directs to the department link.
 3. Interactive environment with objects in each buildings.
 4. A terrain which resembles that of IIT Guwahati, lake and trees.

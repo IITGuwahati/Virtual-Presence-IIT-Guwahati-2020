@@ -18,7 +18,9 @@
 
 
 - For Password and other login details [click here](#Password) 
+
 ### Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020
+
 - For Instructions on how to use the portal [click here](#Instructions)
 - For Issues and Technical Support [click here](#Issues)
 

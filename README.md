@@ -19,7 +19,7 @@
 
 - For Password and other login details [click here](#Password) 
 
-### Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020
+[**Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020**](#pswd)
 
 - For Instructions on how to use the portal [click here](#Instructions)
 - For Issues and Technical Support [click here](#Issues)
@@ -89,6 +89,7 @@ Hurrah!!! You are inside the virtual space of IIT Guwahati campus.
 5. Maintain the necessary decorum of the platform as the event is big and everyone else will be present. Kindly make this day memorable for you as well as others.
 
 <a name="Password"></a>
+<a name="pswd"></a>
 
 ### Scheduled slots:
 

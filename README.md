@@ -19,6 +19,8 @@
 
 [**Kindly only use your Laptop or PC to access the link, as some plugins are not supported completely in Mobiles or Tabs**]()
 
+[**At a time only 500 people can be accomodated in the space, so we can at any point randomly ban people from the space to avoid fuss in server**]()
+
 [**Password will be updated slotwise at the time of Virtual Presence on 22nd September 2020**](#pswd)
 
 - For Password and other login details [click here](#Password) 

@@ -104,7 +104,7 @@ We have decided **4 slots** dedicated for different branches and centers. Each d
 |[**Slots**]()   |[**Departments**]() | [**Time**]()  | [**Password**]()|
 |:-------|:-----------------------|:-------|:---------------|
 | [**SLOT 1**]() | CSE + Mech + CLST + Nanotech | **02:00 PM - 02:25 PM**  |[**convslot**]()|
-| [**SLOT 2**]() | EEE + Humanities + Civil + Rural  | **02:30 PM - 02:55 PM**  |[**Password to be updated before slot time**]()|
+| [**SLOT 2**]() | EEE + Humanities + Civil + Rural  | **02:30 PM - 02:55 PM**  |[**virtualconv**]()|
 | [**SLOT 3**]() | BSBE + Maths + Design + Energy  | **03:00 PM - 03:25 PM**  |[**Password to be updated before slot time**]()|
 | [**SLOT 4**]() | Chemistry + Physics + Chemical + Environment| **03:30 PM - 04:00 PM**  |[**Password to be updated before slot time**]()|
 
